@@ -1,28 +1,34 @@
 # MatrixHowto
 Various how tos and base info for [Matrix Crypto Currency](https://github.com/MatrixAINetworkMan). Masternode, mining, exchanges, nodes and such.
 
-Initiated and curated by Matrix Https://Matrix.io  
-This is a WIP, your feedback is most welcome.  
-Open issues to propose a subject.
+- Initiated and curated by Matrix Https://Matrix.io  
 
-## General
+- This is a WIP, your feedback is most welcome.  
+
+- Open issues to propose a subject.
+
+
+## General (regular updates)
 Background info about Matrix usage, community.
 
-## Install
+## Masternode
+Requirements for being a masternode, and ROI plan.
+
+## Install (coming soon)
 Well, you guess! How to install wallet and node on various OS.
 
-## Mining
+## Mining (regular updates)
 Want to mine some $MAN?  
 An issue with Matrix's miner?  
 That's the place.
 
-## Nodes
+## Nodes (coming soon)
 Configuring, maintening, troubleshoting your node(s)
 
-## Wallet
+## Wallet (coming soon)
 Official Wallet usage and FAQ
 
-## Under The Hood
+## Under The Hood (coming soon)
 Further info for the techies, academics and devs out there.
 
 
