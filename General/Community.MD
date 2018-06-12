@@ -16,7 +16,7 @@
 - Facebook: https://twitter.com/matrixainetwork
 - Medium：https://medium.com/@matrixainetwork
 - Reddit: https://www.reddit.com/r/MatrixAINetwork/
-- Github: https://github.com/MatrixAINetworkMan/
+- Github: https://github.com/MatrixAINetwork/
 - Telegram (Chinese): https://t.me/MANcn
 - Telegram (English): https://t.me/matrixainetwork
 - Official Channel: https://t.me/matrixannchannel
