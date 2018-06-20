@@ -34,3 +34,7 @@ https://youtu.be/neYkCJ8Dg14
 
 ### ASK MATRIX (JUNE 1) 
 - [https://youtu.be/jOBQg3kWx8E](https://youtu.be/jOBQg3kWx8E)
+
+### ASK MATRIX (JUNE 8) 
+
+- [https://youtu.be/dEuEGcy3VFQ](https://youtu.be/dEuEGcy3VFQ)
