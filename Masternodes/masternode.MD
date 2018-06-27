@@ -76,3 +76,7 @@ Any node sharing its computing power to work on an assignment will get a specifi
 ![](https://i.imgur.com/zApUKo4.png)
 
 This design aims at providing a steady and reasonable time interval for computing power leasing. Meanwhile, it ensures every masternode has the chance of competing for the role of supernode, to take the job of mining or validating. Based on our statistics, any one of the masternodes will have the opportunity of being a supernode every two weeks, even if there are 10,000 masternodes.
+
+From the perspective of architecture, we will start the calculation of each miner's value first. And the calculated value system will be set as the basis of the probability of selection. The currently suggested evaluation criteria is as follows:
+
+![](https://i.imgur.com/cPQVzIW.png)
