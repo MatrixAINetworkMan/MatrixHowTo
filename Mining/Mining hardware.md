@@ -9,3 +9,12 @@ We’re using a VU 7P + ZU 21 DR FPGA prototype chip.
 The ZU 21 DR is composed of: 4 ARM Cortex A53  superscaler processors. 
 
 This supports "two miners and a validator" node and this setup has reached 50K TPS.
+
+
+
+
+#### Q2. Does the following HW configuration meet the requirements of MAN mining?
+
+![](https://i.imgur.com/nMjmxdj.png)
+
+You could say this configuration meets entry-level mining requirements, but since it only supports a single quad-core processor, the setup might not be sufficiently optimized to reach the desired TPS. 
