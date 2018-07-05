@@ -1,7 +1,7 @@
 # MatrixHowto
 Various how tos and base info for [Matrix Crypto Currency](https://github.com/MatrixAINetworkMan). Masternode, mining, exchanges, nodes and such.
 
-- Initiated and curated by Matrix Https://Matrix.io  
+- Initiated and curated by MATRIX https://Matrix.io  
 
 - This is a WIP, your feedback is most welcome.  
 
