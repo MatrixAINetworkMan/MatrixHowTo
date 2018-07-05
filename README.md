@@ -9,7 +9,7 @@ Various how tos and base info for [Matrix Crypto Currency](https://github.com/Ma
 
 
 ## General (regular updates)
-Background info about Matrix usage, community.
+Background info about MATRIX usage, community.
 
 ## Masternode
 Requirements for being a masternode, and ROI plan.
@@ -19,7 +19,7 @@ Well, you guess! How to install wallet and node on various OS.
 
 ## Mining (regular updates)
 Want to mine some $MAN?  
-An issue with Matrix's miner?  
+An issue with MATRIX's miner?  
 That's the place.
 
 ## Nodes (coming soon)
