@@ -1,5 +1,7 @@
-# MATRIX Supernodes
+# MATRIX Supernodes (delegare node)
 
 ### A detailed explanation of the delegate nodes (supernodes): How MATRIX can be more decentralized than EOS? How to choose delegate nodes and achieve consensus?
 
 MATRIX is designed to have 21 delegate nodes, which are the agents for transaction processing. Different from the EOS’ supernodes, the delegate nodes of MATRIX are randomly selected in every given period. Such a design is to maintain decentralization and fairness in the sense that the probability of a node staying as a delegate many times over is sufficiently low. A node has to make a given amount of deposits before it can attend the selection process. The period for a selection was chosen as approximately 10 minutes.
+
+First, the qualified nodes are ordered with regards to their computing power. The nodes are then sequentially allocated to 32 clusters to maintain balanced computing power across clusters. Next, the algorithm iterates inside each cluster. Given a cluster, its nodes are initially assigned to 3-node groups in a random manner. The three nodes in each group will choose a winner node. The selection of the winner can be based on a random function, or a combination of: computing power, communication bandwidth, network connectively, and other metrics. The winners will be randomly allocated to 3-node groups again in the next iteration and choose a winner again. This process repeats until there is only one node left, which will be the delegate node in the current cluster, while all other nodes are the voter nodes of the delegate. As there are initially 32 nodes, we will have 21 to handle the transactions, and the remaining 11 nodes as the audition nodes to verify if the 21 delegates are working honestly.
